@@ -1,0 +1,24 @@
+{
+  "name": "xyz.drblackrat.vrc.modernuis.integrations.accesstxl",
+  "displayName": "ModernUIs Integration AccessTXL",
+  "version": "0.3.0",
+  "description": "Integration to allow using AccessTXL for ModernUIs Whitelist / Permission system, as well as the other way around.",
+  "dependencies": {},
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.worlds": ">=3.10.4 <4.0.0",
+    "com.texelsaur.common": ">=2.1.1 <3.0.0",
+    "com.texelsaur.access": ">=1.3.0 <2.0.0",
+    "xyz.drblackrat.vrc.modernuis": ">=0.12.0 <1.0.0"
+  },
+  "author": {
+    "name": "DrBlackRat",
+    "email": "contact@drblackrat.xyz",
+    "url": "https://drblackrat.xyz"
+  },
+  "legacyFolders": {
+    "Assets\\DrBlackRat\\ModernUIs Integrations\\AccessTXL Whitelist Bridge": ""
+  },
+  "legacyFiles": {},
+  "unity": "2022.3"
+}
